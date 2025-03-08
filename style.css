@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 11px;
+    background-color: #935d3f; 
+    color: #333333;
+}
+h1 {
+    text-align: center;
+    color: #00a800;
+    font-size: 24px; 
+    font-family: Arial, sans-serif; 
+}
+h2 {
+    text-align: center;
+    color: darkorange;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.gallery {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.image {
+    width: 400px;
+    height: 230px;
+    margin: 10px;
+}
+
+.container {
+    text-align: center;
+    width: 400px;
+    margin: 20px;
+}
+
+.name {
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
